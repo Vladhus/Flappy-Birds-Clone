@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ee6800148dae9fd4bb334f15a4b3948d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scoreText: {fileID: 63393573776882887, guid: 01eb59645dbd5c74884fc652bcf26870,
+      type: 3}
+  - gameOvertext: {fileID: 682675193608657788, guid: c3178d5cba17d2a47b971ebdf8d2cf3f,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
